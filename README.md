@@ -8,6 +8,12 @@ Welcome to the course PyTorch for Deep Learning. The course is based on the udem
     </a>
 </div>
 
+<div align="center">
+    <a href="https://learnpytorch.io">
+        <img src="images/01_a_pytorch_workflow.png" width=750 alt="General Workflow of PyTorch">
+    </a>
+</div>
+
 ## Contents of this page
 
 * [Course materials/outline](https://github.com/mrdbourke/pytorch-deep-learning#course-materialsoutline)
