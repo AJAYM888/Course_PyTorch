@@ -37,21 +37,6 @@ Welcome to the course PyTorch for Deep Learning. The course is based on the udem
 | [PyTorch Cheatsheet](https://www.learnpytorch.io/pytorch_cheatsheet/) | A very quick overview of some of the main features of PyTorch plus links to various resources where more can be found in the course and in the PyTorch documentation. | - | - |
 | [A Quick PyTorch 2.0 Tutorial](https://www.learnpytorch.io/pytorch_2_intro/) | A fasssssst introduction to PyTorch 2.0, what's new and how to get started along with resources to learn more. | - | - |
 
-## Status
-
-All materials completed and videos published on Zero to Mastery!
-
-See the project page for work-in-progress board - https://github.com/users/mrdbourke/projects/1 
-
-* **Total video count:** 321
-* **Done skeleton code for:** 00, 01, 02, 03, 04, 05, 06, 07, 08, 09
-* **Done annotations (text) for:** 00, 01, 02, 03, 04, 05, 06, 07, 08, 09
-* **Done images for:** 00, 01, 02, 03, 04, 05, 06, 07, 08, 09
-* **Done keynotes for:** 00, 01, 02, 03, 04, 05, 06, 07, 08, 09
-* **Done exercises and solutions for:** 00, 01, 02, 03, 04, 05, 06, 07, 08, 09
-
-See the [log](https://github.com/mrdbourke/pytorch-deep-learning#log) for almost daily updates.
-
 ## About this course
 
 ### Who is this course for?
